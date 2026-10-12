@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+pareto_front.csv
+pareto_front_py.pdf
+pareto_front_py.png
+pallet_det.py
